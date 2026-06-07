@@ -32,7 +32,7 @@ The goal: bridge the gap between data science and **production ML engineering** 
 Every commit is dated. Every deliverable has a benchmark. Every phase has a definition of done.
 
 > **Open to ML Engineering, ML Platform, and Applied AI roles globally.**
-> Resume · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · dipendu.work@email.com
+> Resume · [LinkedIn](https://www.linkedin.com/in/dipendu-mukherjee-4199a8226/) · [Portfolio](https://dipendu-mukherjee-portfolio.vercel.app/)
 
 ---
 
@@ -273,9 +273,9 @@ If you're hiring for **ML Engineering**, **ML Platform**, **MLOps**, or **Applie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dipendu-mukherjee-4199a8226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipendu-mukherjee-4199a8226/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipendu27)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dipendu-mukherjee-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://dipendu-mukherjee-portfolio.vercel.app/)
 
 </div>
 
